@@ -2,7 +2,7 @@
 root_dir=`dirname $0`/..
 
 defaults="--acl-public --exclude=.DS_Store"
-bucket=s3://www.tastypenny.com
+bucket=s3://christmas.benrady.com
 cd $root_dir
 
 echo "Deploying site to $bucket"
