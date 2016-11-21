@@ -1,11 +1,13 @@
 $(window).ready(function() {  
   var pairings = {
-    "Ben": "Bruce",
-    "Jenny": "Peggy",
-    "Smyra" : "Ben",
+    "Brian": "Peggy",
+    "Lily": "Bruce",
+    "Ben": "Brian",
+    "Jenny": "Symra"
+    "Smyra" : "Lily",
     "Brad": "Jenny",
     "Peggy": "Brad",
-    "Bruce": "Smyra"
+    "Bruce": "Ben"
   };
   function addRow(giver, getter) {
     var row = $('#templates .giver-row').clone();
