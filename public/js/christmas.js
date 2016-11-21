@@ -3,8 +3,8 @@ $(window).ready(function() {
     "Brian": "Peggy",
     "Lily": "Bruce",
     "Ben": "Brian",
-    "Jenny": "Symra"
-    "Smyra" : "Lily",
+    "Jenny": "Symra",
+    "Smyra": "Lily",
     "Brad": "Jenny",
     "Peggy": "Brad",
     "Bruce": "Ben"
