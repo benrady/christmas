@@ -1,11 +1,11 @@
 $(window).ready(function() {  
   var pairings = {
-    "Ben": "Peggy",
+    "Ben": "Smyra",
     "Brad": "Bruce",
-    "Brian": "Smyra",
-    "Bruce": "Lily",
-    "Jenny": "Brian",
-    "Lily": "Jenny",
+    "Brian": "Jenny",
+    "Bruce": "Brian",
+    "Jenny": "Lily",
+    "Lily": "Peggy",
     "Peggy": "Brad",
     "Smyra": "Ben"
   };
